@@ -1,4 +1,4 @@
-import { missingNumberInSequence } from "./q01-solution";
+import { missingNumberInSequence } from "./q01";
 
 describe("How do you find the missing numbers in a given integer array?", () => {
 

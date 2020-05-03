@@ -1,6 +1,6 @@
 // 11: How do you check if a given string is a palindrome?
 
-import { palindrome } from "./q11-solution";
+import { palindrome } from "./q11";
 
 describe("How do you check if a given string is a palindrome?", () => {
     it("Basic characters", () => {
